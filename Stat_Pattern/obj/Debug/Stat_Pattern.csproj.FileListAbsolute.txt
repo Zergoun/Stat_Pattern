@@ -1,0 +1,7 @@
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\bin\Debug\Stat_Pattern.exe.config
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\bin\Debug\Stat_Pattern.exe
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\bin\Debug\Stat_Pattern.pdb
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\obj\Debug\Stat_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\obj\Debug\Stat_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\obj\Debug\Stat_Pattern.exe
+C:\Users\Mansour\source\repos\Stat_Pattern\Stat_Pattern\obj\Debug\Stat_Pattern.pdb
